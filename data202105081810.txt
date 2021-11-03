@@ -1,0 +1,7 @@
+rectangle width=4.0 length=3.0
+square size=2.0
+circle radio=2.0
+diamond width=3.0 height=4.0 height=6.0
+parallelogram a=3.0 b=5.0 height=4.0 Breadth=8.0
+triangle sideA=23.0 sideB=4.0 sideC=5.0 base=6.0 height=6.0
+trapezium base1=6.0 base2=7.0 base3=9.0 base4=35.0 Height=8.0
